@@ -1,2 +1,2 @@
-https://vkrdownloader.herokuapp.com
-https://vkrdownloader.herokuapp.com/contact/
+https://eabro.herokuapp.com
+https://eabro.herokuapp.com/contact/
