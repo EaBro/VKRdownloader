@@ -88,7 +88,7 @@
 <a href="/"><center> <h1 > Home </h1> </center></a> </div>
     
 <form action="/searchfilter.php" class="w3-container w3-card-4 w3-light-grey">
-   <center> <h2> Put The Query to Search </h2> </center>
+   <center> <h2> Search </h2> </center>
    
   <p>
   <input class="w3-input w3-border w3-round-large" name="s" type="text"></p>
@@ -132,7 +132,7 @@ echo $homepage;
       
       
      <div style="position: fixed;bottom: 0;width: 100%;background-color: black;color: white;text-align: center;z-index: 99999999999999999;">
-  <p> &copy; All right Reserved <?php echo date("Y"); ?> . Powered By <a href="https://tinyurl.com/buydlapitube"><b> Vijay Kumar </b> </a></p>
+  <p> &copy; All right Reserved <?php echo date("Y"); ?> . Powered By <a href="/"><b> EaBro </b> </a></p>
 </div>
   </p>
 </div>
