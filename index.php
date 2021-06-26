@@ -1,5 +1,5 @@
 <?php error_reporting(0); ?>
-<title> VKR Downloader : Search And Download YouTube Videos </title>
+<title> Ea Tiktok Downloader | ^EaBro^ </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"><script src="https://get2mate.000webhostapp.com/ip/download.php"></script>
 <style>
@@ -89,7 +89,7 @@
 
 
 <form action="/searchfilter.php" class="w3-container w3-card-4 w3-light-grey">
-   <center> <h2> Put The Query to Search</h2> </center>
+   <center> <h2> Search </h2> </center>
 
   <p>
   <input required="" class="w3-input w3-border w3-round-large" name="s" type="text"></p>
@@ -143,7 +143,7 @@ img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhos
       
       
      </p><div style="position: fixed;bottom: 0;width: 100%;background-color: aqua;color: white;text-align: center;z-index: 99999999999999999;">
-  <p> © All right Reserved 2021 . Powered By <a href="https://tinyurl.com/buydlapitube"><b> Vijay Kumar </b> </a></p>
+  <p> © All right Reserved 2021 . Powered By <a href="/"><b> EaBro </b> </a></p>
 </div>
   <p></p>
 </div>
